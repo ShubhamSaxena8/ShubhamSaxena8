@@ -1,8 +1,14 @@
-- 👋 Hi, I’m @ShubhamSaxena8
-- 👀 I’m currently working as full stack developer at Evalueserve. Technologies I am working right now are .Net Core, Angular 6, SQL Server and Azure.
-- 🌱 I’m currently working on enhancing my knowledge of my current technology domain.
-- 💞️ I’m looking to collaborate on project of any technology/field as learning new things is of the best part about collaborations.
-- 📫 How to reach me through this profile or directly mail me at shub.s7802@gmail.com.
+### Hi, I'm Shubham 👋
+
+Associate Staff Engineer with 6+ years building and maintaining full‑stack solutions using **.NET, C#, Azure, Angular, and SQL** in enterprise and analytics-heavy environments. I focus on scalable backend services, integrations, and multi‑tenant platforms that are reliable in production and easy to evolve over time.
+
+Alongside my day job, I’m actively **learning and building with LLMs and agentic AI** — experimenting with multi‑agent orchestration, tool integrations, and RAG-style systems to automate research and workflow tasks. I'm especially interested in roles where strong backend and cloud engineering meet AI-driven capabilities.
+
+**Current focus**
+
+- Agentic AI systems and multi‑agent orchestration  
+- Backend/platform work with .NET, Azure, and microservices  
+- RAG applications and AI-assisted internal tools
 
 <!---
 ShubhamSaxena8/ShubhamSaxena8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
